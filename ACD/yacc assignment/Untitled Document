@@ -1,0 +1,2 @@
+ gcc y.tab.c -ll -ly -lm
+
